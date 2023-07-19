@@ -1,1 +1,1 @@
-# mongo-golang
+# mongo-golang-rest
